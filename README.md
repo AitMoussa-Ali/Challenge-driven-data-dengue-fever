@@ -1,6 +1,6 @@
 # Final Project – Dengue Fever Prediction using Machine Learning & Neural Networks
 
-## 📌 Description du projet
+## Description du projet
 
 Ce projet consiste à développer et comparer plusieurs modèles de **Machine Learning** et de **Réseaux de Neurones** afin de prédire le nombre de cas de dengue dans deux villes distinctes (**San Juan (sj)** et **Iquitos (iq)**).  
 Le travail couvre l’ensemble du pipeline de data science : **chargement des données, nettoyage, feature engineering, entraînement des modèles, évaluation et comparaison des performances**.
@@ -12,7 +12,9 @@ Le projet a été réalisé sous forme de notebook Python, avec une approche exp
 ## Structure du projet
 
 - `code.ipynb` : Notebook principal contenant tout le pipeline du projet  
-- `README.md` : Description du projet et instructions  
+- `README.md` : Description du projet et instructions
+- `Data` : Dataset
+- `Figures` : figures analytiques
 
 ---
 
